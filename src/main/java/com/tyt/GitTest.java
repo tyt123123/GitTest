@@ -6,5 +6,6 @@ public class GitTest {
         System.out.println("GIT TEST2");
         System.out.println("GIT TEST3");
         System.out.println("GIT TEST4 Branches（主线变更冲突测试）");
+        System.out.println("GIT TEST4 Branches 冲突合并测试");
     }
 }
