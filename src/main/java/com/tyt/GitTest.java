@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("GIT TEST4 Branches 冲突合并测试");
         System.out.println("GIT TEST5 push 远程库编辑推送测试");
         System.out.println("GIT TEST5 push 不同远程库推送测试");
+        System.out.println("GIT TEST5 push Git更新测试");
     }
 }
